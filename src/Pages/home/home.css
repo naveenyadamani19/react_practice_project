@@ -1,0 +1,97 @@
+body {
+  background-image: url("../../assets/bg.jpg");
+}
+.main-content {
+  padding: 30px;
+  margin: 0;
+}
+.e_marketheader {
+  height: 54px;
+}
+.img-thumbnail {
+  border: 1px solid white;
+  background-color: black;
+  padding: 5px;
+}
+.play_colors {
+  color: #732c3d;
+}
+.mobile_text {
+  color: #732c3d;
+}
+.mobix_text {
+  font-size: 17px;
+}
+.mobiles_models p {
+  font-size: 15px;
+}
+
+.qrcode_url {
+  width: 215px;
+  padding: 0 10px;
+}
+.testing_differentMobiles {
+  width: 260px;
+  padding: 15px 10px;
+  border-radius: 12px;
+  background-color: #aeb523;
+  color: white;
+  text-align: right;
+}
+.list-options {
+  font-size: 18px;
+}
+.close {
+  font-size: 18px;
+}
+.tested_title {
+  font-size: 30px;
+  font-weight: bold;
+  color: green;
+}
+.differentMobiles_title {
+  font-weight: 300;
+  color: #0000009e;
+}
+.cursor {
+  cursor: grab;
+}
+.login_page {
+  padding-top: 20px;
+}
+.user-login {
+  margin: auto;
+  width: 360px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  height: 315px;
+  padding: 40px 0;
+  border-radius: 20px;
+}
+.email {
+  font-size: 15px;
+}
+.password {
+  font-size: 15px;
+}
+.password_input {
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.email_input {
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.submit {
+  text-align: center;
+  padding: 30px 0;
+}
+.submit_btn {
+  background-color: blue;
+  color: white;
+  padding: 5px 20px;
+  font-weight: bold;
+  border-radius: 13px;
+  border: none;
+}
