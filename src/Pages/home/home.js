@@ -68,7 +68,7 @@ export default function Home() {
                 <tr>
                   <th scope="col bg-primary">Email</th>
                   <th scope="col">Password</th>
-                  <th scope="col">Actions</th>
+                  <th scope="col">Acti</th>
                 </tr>
               </thead>
 
@@ -81,7 +81,7 @@ export default function Home() {
                       type="button"
                       className="btn-xs text-white bg-secondary"
                     >
-                      Submit
+                      Sub
                     </button>
                   </td>
                 </tr>
