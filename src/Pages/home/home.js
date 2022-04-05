@@ -75,7 +75,7 @@ export default function Home() {
               <tbody>
                 <tr>
                   <td>naveen@gmail.com</td>
-                  <td>147036229</td>
+                  <td>1255036229</td>
                   <td>
                     <button
                       type="button"
